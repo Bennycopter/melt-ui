@@ -1,5 +1,11 @@
 # @melt-ui/svelte
 
+## 0.50.1
+
+### Patch Changes
+
+- Combobox: Fix exported types ([`9e4c6a26`](https://github.com/melt-ui/melt-ui/commit/9e4c6a26b8623d4cb33fd939b80a140e15597cc1))
+
 ## 0.50.0
 
 ### Minor Changes
